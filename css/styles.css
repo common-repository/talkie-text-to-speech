@@ -1,0 +1,18 @@
+.btn-talkie {
+    background-image: url(../images/talkie-speak.gif);
+    background-color: #26c5e5;
+    background-repeat:no-repeat;
+    background-position-x:5px;
+    background-position-y:10px;
+    color: #FFF !important;
+    background-size: 22px !important;;
+    padding-left: 32px !important;
+    font-weight:bold !important;
+}
+.btn-outlined {
+	background-image: url(../images/talkie-speak-b.gif);
+	background-color:transparent;
+	color:inherit;
+	border-width:1px;
+	border-style:solid;
+}
